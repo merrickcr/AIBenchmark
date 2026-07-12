@@ -1,5 +1,7 @@
 # AIBenchmark
 
+[![Featured in Android Weekly #735](https://img.shields.io/badge/Featured_in-Android_Weekly_%23735-3DDC84?logo=android&logoColor=white)](https://androidweekly.net/issues/issue-735)
+
 An Android app for benchmarking on-device inference latency of quantized
 MobileNet models, comparing FP32, INT8, and INT4 weights on both CPU and GPU
 backends using Google's [LiteRT](https://ai.google.dev/edge/litert) V2
